@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Movies_App</string>
+    <string name="movie_title">Movie Title</string>
+    <string name="gen_ro">Genêro</string>
+    <string name="tempo">Tempo</string>
+    <string name="ano">Ano</string>
+    <string name="diretor">Diretor</string>
+    <string name="elenco">Elenco</string>
+    <string name="sinopse">Sinopse</string>
+</resources>
